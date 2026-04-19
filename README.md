@@ -1,0 +1,2 @@
+<img width="771" height="345" alt="final dashboard" src="https://github.com/user-attachments/assets/a1f6422b-6b83-48db-bde6-66f35fc553fa" />
+This project focuses on analyzing retail sales data to understand business performance and customer trends. Tools like Excel, MySQL, Python, and Power BI are used to clean, process, and visualize the data. The dashboard helps identify sales patterns, top products, and profit insights. This analysis supports better decision-making and business growth
